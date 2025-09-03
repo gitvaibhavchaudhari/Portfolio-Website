@@ -3,7 +3,7 @@
 This is my **personal portfolio website**, built to showcase my skills, projects, and experience as a developer.  
 It serves as an online resume and a way to connect with me.  
 ## 🔗 Live Demo
-👉 [View Portfolio Website](https://yourdomain.com) 
+👉 (https://vaibhavportfollio.netlify.app/) 
 
 ## 🚀 Features
 - Responsive design (mobile & desktop friendly)  
